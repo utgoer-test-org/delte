@@ -1,1 +1,1 @@
-# deltec
+# delte
